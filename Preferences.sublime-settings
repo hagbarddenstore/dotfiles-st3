@@ -2,5 +2,6 @@
 // and are overridden in turn by file type specific settings.
 {
 	"fade_fold_buttons": false,
-	"highlight_line": true
+	"highlight_line": true,
+  "rulers": [ 80 ]
 }
