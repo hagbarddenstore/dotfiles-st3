@@ -1,5 +1,8 @@
 {
-  "fade_fold_buttons": false,
-  "highlight_line": true,
-  "rulers": [ 80 ]
+    "fade_fold_buttons": false,
+    "highlight_line": true,
+    "rulers": [ 80 ],
+    "translate_tabs_to_spaces": true,
+    "detect_indentation": false,
+    "use_tabs_stops": true
 }
